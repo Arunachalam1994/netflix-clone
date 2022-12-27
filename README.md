@@ -1,2 +1,2 @@
 # netflix-clone
-Netflix First page clone
+Netflix page clone using react hooks.
